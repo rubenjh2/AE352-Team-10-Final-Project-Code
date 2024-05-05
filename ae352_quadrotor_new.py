@@ -1,5 +1,5 @@
 """
-This modules provides a backend for the ae353 quadrotor example
+This modules provides a backend for the ae352 quadrotor example
 """
 
 ###############################################################################
